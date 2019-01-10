@@ -16,7 +16,7 @@
     </php>
 
     <testsuites>
-        <testsuite name="BookUnited Http Component Test Suite">
+        <testsuite name="BookUnited Transformers Component Test Suite">
             <directory>./tests</directory>
         </testsuite>
     </testsuites>

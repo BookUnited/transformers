@@ -1,10 +1,10 @@
-# Http
-Http client for communication between the BookUnited services.
+# Transformers
+imple package to transform data.
 
 ## Installation
 Require the Http library trough composer.
 ```
-composer require bookunited/http
+composer require bookunited/transformers
 ```
 
 License
